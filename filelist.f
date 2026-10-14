@@ -1,0 +1,14 @@
+rtl/uart_pkg.sv
+rtl/uart_baud_gen.sv
+rtl/uart_parity_gen.sv
+rtl/uart_parity_checker.sv
+rtl/uart_tx_fsm.sv
+rtl/uart_tx_datapath.sv
+rtl/uart_rx_synchronizer.sv
+rtl/uart_rx_fsm.sv
+rtl/uart_rx_datapath.sv
+rtl/uart_error_detection.sv
+rtl/uart_fifo.sv
+rtl/uart_top.sv
+rtl/uart_apb_wrapper.sv
+rtl/uart_axi_lite_wrapper.sv

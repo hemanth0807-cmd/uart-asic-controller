@@ -1,0 +1,22 @@
+# Simulator outputs
+work/
+xsim.dir/
+transcript
+vsim.wlf
+*.vcd
+*.fst
+*.vvp
+*.out
+*.so
+*.dll
+*.exe
+
+# Tool logs and temporary files
+*.jou
+*.log
+*.wdb
+*.wcfg
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
